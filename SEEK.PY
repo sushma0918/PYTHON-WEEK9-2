@@ -1,3 +1,4 @@
+#24331A05G8
 file = open("seek_example.txt", "w+")
 file.write("Python File Handling Example")
 file.flush()
